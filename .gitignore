@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+
+# macOS metadata
+.DS_Store
+
+# Local logs
+logs/
+
+# Environment variables / secrets
+.env
+
+# Pycache
+__pycache__/
